@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 /**
  *
- * @author 1-2023229296
+ * 
  */
 public class Biblioteca {
     Scanner sc = new Scanner(System.in);
